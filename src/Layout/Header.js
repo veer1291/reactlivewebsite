@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <nav className="navbar navbar-expand-sm navbar-light" style={{ backgroundColor: "gray" }}>
             <div className="container">
-                <Link className="navbar-brand" to="/">
+                <Link className="navbar-brand" to="/reactlivewebsite">
                     J Solution
                     {/* <img src={airlines} height="50px" /> */}
                 </Link>
