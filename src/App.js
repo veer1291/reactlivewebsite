@@ -17,7 +17,7 @@ function App() {
     <div>
       <BrowserRouter>
         <Routes>
-          <Route exact path="/" element={<Login />} />
+          <Route exact path="/reactlivewebsite" element={<Login />} />
           <Route exact path="/Home" element={<Home name="Home component" />} />
           <Route exact path="/About" element={<About />} />
         </Routes>
